@@ -1,0 +1,119 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="105">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="veniam" />
+            <item index="7" class="java.lang.String" itemvalue="sed" />
+            <item index="8" class="java.lang.String" itemvalue="quas" />
+            <item index="9" class="java.lang.String" itemvalue="perferendis" />
+            <item index="10" class="java.lang.String" itemvalue="maxime" />
+            <item index="11" class="java.lang.String" itemvalue="excepturi" />
+            <item index="12" class="java.lang.String" itemvalue="Consequuntur" />
+            <item index="13" class="java.lang.String" itemvalue="elit" />
+            <item index="14" class="java.lang.String" itemvalue="adipisicing" />
+            <item index="15" class="java.lang.String" itemvalue="consectetur" />
+            <item index="16" class="java.lang.String" itemvalue="amet" />
+            <item index="17" class="java.lang.String" itemvalue="sit" />
+            <item index="18" class="java.lang.String" itemvalue="dolor" />
+            <item index="19" class="java.lang.String" itemvalue="ipsum" />
+            <item index="20" class="java.lang.String" itemvalue="Lorem" />
+            <item index="21" class="java.lang.String" itemvalue="HISTORY" />
+            <item index="22" class="java.lang.String" itemvalue="OUR" />
+            <item index="23" class="java.lang.String" itemvalue="praesentium" />
+            <item index="24" class="java.lang.String" itemvalue="porro" />
+            <item index="25" class="java.lang.String" itemvalue="odio" />
+            <item index="26" class="java.lang.String" itemvalue="modi" />
+            <item index="27" class="java.lang.String" itemvalue="Beatae" />
+            <item index="28" class="java.lang.String" itemvalue="velit" />
+            <item index="29" class="java.lang.String" itemvalue="sunt" />
+            <item index="30" class="java.lang.String" itemvalue="soluta" />
+            <item index="31" class="java.lang.String" itemvalue="nostrum" />
+            <item index="32" class="java.lang.String" itemvalue="mollitia" />
+            <item index="33" class="java.lang.String" itemvalue="debitis" />
+            <item index="34" class="java.lang.String" itemvalue="culpa" />
+            <item index="35" class="java.lang.String" itemvalue="architecto" />
+            <item index="36" class="java.lang.String" itemvalue="Adipisci" />
+            <item index="37" class="java.lang.String" itemvalue="voluptate" />
+            <item index="38" class="java.lang.String" itemvalue="quisquam" />
+            <item index="39" class="java.lang.String" itemvalue="nemo" />
+            <item index="40" class="java.lang.String" itemvalue="commodi" />
+            <item index="41" class="java.lang.String" itemvalue="MOTTO" />
+            <item index="42" class="java.lang.String" itemvalue="veritatis" />
+            <item index="43" class="java.lang.String" itemvalue="recusandae" />
+            <item index="44" class="java.lang.String" itemvalue="quam" />
+            <item index="45" class="java.lang.String" itemvalue="provident" />
+            <item index="46" class="java.lang.String" itemvalue="obcaecati" />
+            <item index="47" class="java.lang.String" itemvalue="maiores" />
+            <item index="48" class="java.lang.String" itemvalue="laboriosam" />
+            <item index="49" class="java.lang.String" itemvalue="vel" />
+            <item index="50" class="java.lang.String" itemvalue="ex" />
+            <item index="51" class="java.lang.String" itemvalue="corporis" />
+            <item index="52" class="java.lang.String" itemvalue="Consequatur" />
+            <item index="53" class="java.lang.String" itemvalue="voluptatibus" />
+            <item index="54" class="java.lang.String" itemvalue="vitae" />
+            <item index="55" class="java.lang.String" itemvalue="tempora" />
+            <item index="56" class="java.lang.String" itemvalue="sint" />
+            <item index="57" class="java.lang.String" itemvalue="sapiente" />
+            <item index="58" class="java.lang.String" itemvalue="quos" />
+            <item index="59" class="java.lang.String" itemvalue="quidem" />
+            <item index="60" class="java.lang.String" itemvalue="quia" />
+            <item index="61" class="java.lang.String" itemvalue="quasi" />
+            <item index="62" class="java.lang.String" itemvalue="placeat" />
+            <item index="63" class="java.lang.String" itemvalue="natus" />
+            <item index="64" class="java.lang.String" itemvalue="iusto" />
+            <item index="65" class="java.lang.String" itemvalue="illo" />
+            <item index="66" class="java.lang.String" itemvalue="fuga" />
+            <item index="67" class="java.lang.String" itemvalue="explicabo" />
+            <item index="68" class="java.lang.String" itemvalue="eveniet" />
+            <item index="69" class="java.lang.String" itemvalue="et" />
+            <item index="70" class="java.lang.String" itemvalue="eos" />
+            <item index="71" class="java.lang.String" itemvalue="eaque" />
+            <item index="72" class="java.lang.String" itemvalue="doloribus" />
+            <item index="73" class="java.lang.String" itemvalue="dignissimos" />
+            <item index="74" class="java.lang.String" itemvalue="dicta" />
+            <item index="75" class="java.lang.String" itemvalue="delectus" />
+            <item index="76" class="java.lang.String" itemvalue="cum" />
+            <item index="77" class="java.lang.String" itemvalue="autem" />
+            <item index="78" class="java.lang.String" itemvalue="aut" />
+            <item index="79" class="java.lang.String" itemvalue="at" />
+            <item index="80" class="java.lang.String" itemvalue="aspernatur" />
+            <item index="81" class="java.lang.String" itemvalue="asperiores" />
+            <item index="82" class="java.lang.String" itemvalue="alias" />
+            <item index="83" class="java.lang.String" itemvalue="accusamus" />
+            <item index="84" class="java.lang.String" itemvalue="Ab" />
+            <item index="85" class="java.lang.String" itemvalue="totam" />
+            <item index="86" class="java.lang.String" itemvalue="reiciendis" />
+            <item index="87" class="java.lang.String" itemvalue="hic" />
+            <item index="88" class="java.lang.String" itemvalue="MISION" />
+            <item index="89" class="java.lang.String" itemvalue="rerum" />
+            <item index="90" class="java.lang.String" itemvalue="itaque" />
+            <item index="91" class="java.lang.String" itemvalue="ipsa" />
+            <item index="92" class="java.lang.String" itemvalue="expedita" />
+            <item index="93" class="java.lang.String" itemvalue="esse" />
+            <item index="94" class="java.lang.String" itemvalue="cupiditate" />
+            <item index="95" class="java.lang.String" itemvalue="reprehenderit" />
+            <item index="96" class="java.lang.String" itemvalue="doloremque" />
+            <item index="97" class="java.lang.String" itemvalue="VISION" />
+            <item index="98" class="java.lang.String" itemvalue="Us" />
+            <item index="99" class="java.lang.String" itemvalue="Visit" />
+            <item index="100" class="java.lang.String" itemvalue="Contact" />
+            <item index="101" class="java.lang.String" itemvalue="up" />
+            <item index="102" class="java.lang.String" itemvalue="Sign" />
+            <item index="103" class="java.lang.String" itemvalue="Home" />
+            <item index="104" class="java.lang.String" itemvalue="submit" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+  </profile>
+</component>

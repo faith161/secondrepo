@@ -1,0 +1,105 @@
+nav{
+    text-align: right;
+    margin: 10px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    top: 0;
+}
+h1{
+    text-align: center;
+    color:red;
+    padding:30px;
+    font-weight: bold;
+}
+h3{
+    text-align: left;
+    padding:10px;
+}
+p{
+    font-weight: bold;
+    text-align: justify;
+    display:flex;
+}
+
+nav ul{
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    gap: 5px;
+    margin-left: 100px;
+    padding: 0 0 0 20px;
+
+}
+nav ul li{
+
+    padding: 10px;
+    font-weight: bold;
+    text-align: right;
+    text-decoration: none;
+    margin-bottom: 10px;
+    font-size: smaller;
+    background: none;
+    gap: 1px;
+}
+
+.hero-image{
+    background-image: url("https://cdn.pixabay.com/photo/2025/04/29/13/22/cityscape-9567180_960_720.jpg ");
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    border-radius: 20px;
+    margin: 0;
+    padding: 50px 20px 20px 50px;
+}
+
+.head{
+    display: flex;
+    top: 40px;
+    text-align: center;
+    position: relative;
+}
+nav h3{
+    align-items: flex-start;
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+    text-align: right;
+    gap: 10px;
+    margin: 10px;
+    padding: 0 0 0 20px;
+}
+
+.container{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+}
+.container p,h1{
+    position: relative;
+    max-width: 500px;
+    margin-left: 500px;
+    margin-top: 0;
+}
+.container button{
+    background: none;
+    border: solid orange;
+    padding: 8px 20px;
+    border-radius: 16px;
+    color: white;
+}
+.container h1{
+    position: relative;
+}
+.container h2{
+    padding: 0 50px;
+    color:orange;
+    margin-top: 0;
+}
+
+
+
+
+
